@@ -38,11 +38,13 @@ git clone
   ALT: via Github Desktop
 
 <<Creating a Repo>>
-mkdir ghtutorial-2021
-cd ghtutorial-2021
-echo "# ghtutorial-2021" >> README.md
+mkdir ghtutorial-2026
+cd ghtutorial-2026
+echo "# README: ghtutorial-2026" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/XXX/ghtutorial-2021.git
-git push -u origin master
+
+<<Syncing to GitHub remote>>
+git remote add origin https://github.com/<username>/ghtutorial-2026.git
+git push --set-upstream origin main
