@@ -1,16 +1,13 @@
 # Fall Graduate Application Workshop
 
-*Sept. 27 from 3:30pm - 5pm and Oct. 21 from 3:30pm - 5pm central time.*
+*Nov 6 from 1:30pm - 2:15pm Central and Nov 11 from 1:30pm - 2:15pm central time.*
 
-Day 1
-1.  Review our GitHub materials (5min)
-2.	"How-to" guide for graduate school (45min)
-3.	The Northwestern application (15min)
-4.	Costs and vouchers (10min)
-5.	Assignment, schedule for next session + Q&A (15min)
+Session 1
+1.  Overview of workshop + GitHub materials (5min)
+2.	Recap: "How-to" guide for graduate school & Northwestern application (20min)
+3.	Q&A (20min)
 
-Day 2
+Session 2
 1.  Intro + Q&A (5min)
-2.	Breakout rooms to share essay outlines and provide helpful feedback (2 x 30min)
-3.	Recap, share helpful suggestions with group (15min)
-4.	Q&A (10min)
+2.	Discussion: statements and feedback (20min)
+3.	Q&A (20min)
